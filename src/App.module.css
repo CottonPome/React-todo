@@ -1,0 +1,33 @@
+.app__root {
+  text-align: center;
+  color: dimgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.app__icon {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-top: 30px;
+  color: dimgray;
+}
+
+.app_logout {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: dimgray;
+  margin-left: 10px;
+}
+
+/* button が disable になったとき */
+button:disabled {
+  color: #ccc;
+  cursor: not-allowed;
+}
+
+h1 {
+  display: inline-block;
+}
