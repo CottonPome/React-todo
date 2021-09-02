@@ -1,6 +1,6 @@
 # Typescript ＋ React を用いて Todo アプリを作成
 
-# 学んだこと
+## 学んだこと
 
 ・Typescript・JSX の文法
 
