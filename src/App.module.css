@@ -13,7 +13,7 @@
   color: dimgray;
 }
 
-.app_logout {
+.app__logout {
   cursor: pointer;
   background-color: transparent;
   border: none;
